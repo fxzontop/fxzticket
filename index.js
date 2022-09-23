@@ -152,4 +152,4 @@ xZ .on('interactionCreate', async interaction => {
 		adminAlertChannel.send({ ephemeral: true, embeds: [deleteMessage] });
 	}
 });
-xZ .login("MTAyMTI1Mjg3NzAwNTYyNzM5NA.GTPwaz.JEFcTSbDNcliXtfCcBXs73zB3NGibT_gGQrdTY");
+xZ .login("MTAyMTI1Mjg3NzAwNTYyNzM5NA.GNXdb8.iLFnlZoDfKShygU-VghYh56KtcbbVzUEdMMGM8");
